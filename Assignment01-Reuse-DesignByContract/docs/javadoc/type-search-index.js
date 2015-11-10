@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"oosc.assignment01.contract","l":"ContractDemo"},{"p":"oosc.assignment01.contract","l":"ContractDemo.DateRange"},{"p":"oosc.assignment01.reuse","l":"ReuseRoiCalculator"}];updateSearchResults();
